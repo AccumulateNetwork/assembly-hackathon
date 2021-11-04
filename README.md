@@ -14,8 +14,9 @@ Accumulate is a brand-new protocol and we welcome all projects that utilize Accu
 * Decentralized applications developed on Accumulate
 
 **Resources:**
-*   [Developer Documentation](https://docs.accumulatenetwork.io)(check out the Deep Dive section to learn more about Accumulate concepts).
+*   [Developer Documentation](https://docs.accumulatenetwork.io) (check out the Deep Dive section to learn more about Accumulate concepts).
 *   [Github](https://github.com/AccumulateNetwork/accumulated)
 *   [Discord](https://discord.gg/CYnaF8w2C2)
-(ask questions in the #hackathons channel).*   [Litepaper](https://accumulatenetwork.io/litepaper)
+(ask questions in the #hackathons channel).
+*   [Litepaper](https://accumulatenetwork.io/litepaper)
 *   [Accumulate Home Page](https://accumulatenetwork.io/)
