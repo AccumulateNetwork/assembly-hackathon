@@ -1,6 +1,8 @@
 # assembly-hackathon
 Information about Accumulate's first hackathon and ideas for software to build.
 
+![accumulate-assembly-hackathon](https://accumulatenetwork.io/wp-content/uploads/2021/11/1350x300-cover-assembly-hackathon-Accumulate-v3-1.png)
+
 **What is Accumulate?**\
 [Accumulate](https://accumulatenetwork.io) is a high-performance blockchain for DeFi, integrating blockchains, protocols, oracles, and applications, serving as a bridge for the new digital economy. Accumulate shifts the paradigm for how blockchains manage data, tokens, and users with an identity-based, Proof-of-Stake blockchain offering secure, scalable, and extensible features to power DeFi applications.\ 
 
