@@ -1,4 +1,4 @@
-# assembly-hackathon
+# Assembly: Accumulate Blockchain Hackathon
 Information about Accumulate's first hackathon and ideas for software to build.
 
 ![accumulate-assembly-hackathon](https://accumulatenetwork.io/wp-content/uploads/2021/11/1350x300-cover-assembly-hackathon-Accumulate-v3-1.png)
